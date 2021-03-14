@@ -1,3 +1,3 @@
-console.error('Help!');
-console.warn('It might end bad');
-console.log('I\'m just a message');
+console.error('Incorrect PIN');
+console.warn('It is your last try');
+console.log('You\'re logged in successfully');
